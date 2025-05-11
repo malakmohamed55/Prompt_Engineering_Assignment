@@ -1,0 +1,46 @@
+Prompt Type,Prompt Text,Output #,Generated Text,BERTScore F1
+Direct,Write a motivational quote about overcoming fear.,1,"Write a motivational quote about overcoming fear.
+
+""For example, what if you have one goal you can carry forward over time? That would be to put your entire life on track. It doesn't make any sense to us to have the same",0.8451
+Direct,Write a motivational quote about overcoming fear.,2,Write a motivational quote about overcoming fear. Start by telling your friend about your fear of being a bad person. What are your best habits or techniques for the day to day life? Share it in the comments below or call us at 919-8,0.8414
+Direct,Write a motivational quote about overcoming fear.,3,"Write a motivational quote about overcoming fear.
+
+This simple exercise will help you to not only overcome fear in the future but to build resilience in the future too! It may take some time to get used to, but this simple exercise will help you",0.851
+Scenario,Imagine you’re helping a friend who failed a test. Write something encouraging.,1,Imagine you’re helping a friend who failed a test. Write something encouraging.’Help others to achieve.’I was wrong. You are still wrong. You are wrong.’It is the best we can do.�,0.8459
+Scenario,Imagine you’re helping a friend who failed a test. Write something encouraging.,2,"Imagine you’re helping a friend who failed a test. Write something encouraging. Then, leave something important to the world. You're probably tired of reading the news.""
+
+""But the rest of the people aren't so bad."" I",0.8358
+Scenario,Imagine you’re helping a friend who failed a test. Write something encouraging.,3,"Imagine you’re helping a friend who failed a test. Write something encouraging. The test is for you. ""You're good at something."" That's all you care about. Think through what might be considered your strengths and weaknesses. Do something",0.8537
+Persona,"As a wise monk, write a quote about inner strength.",1,"As a wise monk, write a quote about inner strength. In the Buddha's words, the entire body in his body of the Buddha has inner strength. But, when you write about inner strength, then there is a difference in the inner strength of",0.8391
+Persona,"As a wise monk, write a quote about inner strength.",2,"As a wise monk, write a quote about inner strength.
+
+For someone like us, this is quite a tough situation. One of our brothers, after he committed suicide, we thought that he wanted to die. We knew about the dangers of",0.8411
+Persona,"As a wise monk, write a quote about inner strength.",3,"As a wise monk, write a quote about inner strength.
+
+The Zen Master Dogen Zenon-Tse
+
+""To do nothing except to think, and to look at things with your mind is an inner strength; to speak,",0.8273
+Keyword,"Using the words 'growth', 'struggle', and 'hope', write something inspiring.",1,"Using the words 'growth', 'struggle', and 'hope', write something inspiring.
+
+Let the heart be clear. We need your help to produce, and give a voice for these young people in the world.
+
+In the",0.8318
+Keyword,"Using the words 'growth', 'struggle', and 'hope', write something inspiring.",2,"Using the words 'growth', 'struggle', and 'hope', write something inspiring. This helps your child become part of a larger struggle.
+
+The goal should be to grow, but that means it must be in a state where you",0.8388
+Keyword,"Using the words 'growth', 'struggle', and 'hope', write something inspiring.",3,"Using the words 'growth', 'struggle', and 'hope', write something inspiring.
+
+""Do not be deceived by the hype.
+
+""If you've ever wondered why any number of people are having so many success stories,",0.8287
+Conversational,"User: I feel like giving up.
+GPT-2: Here's a quote for you:",1,"User: I feel like giving up.
+GPT-2: Here's a quote for you:
+I have been following you and my game, and what I feel is the same as your game: You seem to have found the right balance",0.8336
+Conversational,"User: I feel like giving up.
+GPT-2: Here's a quote for you:",2,"User: I feel like giving up.
+GPT-2: Here's a quote for you:
+Nirvana: Well, maybe it's time for you to look at what you do. If I'm just like that, that's",0.8295
+Conversational,"User: I feel like giving up.
+GPT-2: Here's a quote for you:",3,"User: I feel like giving up.
+GPT-2: Here's a quote for you: ""This is a good opportunity for the community to come together, to get together and make sure this is going to be a good place to be",0.83
